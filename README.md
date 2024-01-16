@@ -1,1 +1,1 @@
-[DEMO LINK](https://genuine-capybara-d4c1bc.netlify.app/)
+[DEMO LINK](https://sergeyshapovalenko.github.io/dragonGame/)
